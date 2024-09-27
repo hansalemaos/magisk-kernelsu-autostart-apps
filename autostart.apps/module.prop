@@ -1,0 +1,6 @@
+id=autostartapps
+name=autostartapps
+version=1.0
+versionCode=01
+author=hansalemao
+description=Create a file /sdcard/hansgisk/runapps.sh and write something like this (1 command each line!): PACKAGESTART com.termux; sleep 3; PACKAGESTART com.spotify.music; echo "oi"
